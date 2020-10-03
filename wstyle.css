@@ -9,20 +9,20 @@ margin-right: 5px;
 
 p {
 color:whitesmoke;
-font-style: italic;
+font-style: inherit;
 font-size: x-large;
 }
 
 
 h1 {
 color: brown;
-font-style: oblique;
+font-style: inherit;
 text-align: center;
 font-size: 63px;
 }
 
 h2 {
-font-style: oblique;
+font-family: sans-serif;
 color: wheat;
 /*--margin-left: 20px;--*/
 font-size: 2.5em;
