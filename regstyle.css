@@ -34,3 +34,17 @@ color:  peru;
 font-size:2em ;
 /*--margin-left: 18px;--*/
 }
+table {
+    border-collapse: collapse;
+
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+    font-size: larger;
+  }
+ .center {
+
+    margin-left: auto;
+    margin-right: auto;
+}

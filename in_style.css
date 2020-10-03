@@ -14,7 +14,12 @@ nav {
     height: 100px;
 
 }
+#hat{
 
+    text-align: center;
+    font-size: 90px;
+    font-style: italic;
+}
 
 ul {
     margin-left: 450px;
