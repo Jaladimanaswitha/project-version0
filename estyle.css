@@ -1,0 +1,28 @@
+body {
+   background-image: url("https://i.pinimg.com/originals/ff/5a/a9/ff5aa9f0387f70a6bf710caeb45ee699.jpg");
+/*background-image: url(https://cdn.cdnparenting.com/articles/2018/09/81243526-V.jpg );*/
+background-repeat: no-repeat;
+background-size: cover;
+margin-right: 5px;
+margin-left: 10px;
+}
+
+p {
+color: black ;
+font-style:italic;
+font-size: x-large;
+}
+
+
+h1 {
+color: black;
+font-style: oblique;
+text-align: center;
+font-size: 63px;
+}
+
+h2 {
+font-style: oblique;
+color: rebeccapurple;
+font-size: 2.5em;
+}

@@ -1,0 +1,36 @@
+body {
+    /*background-image: url("https://png.pngitem.com/pimgs/s/192-1929730_india-map-clip-art-india-map-in-grey.png");*/
+background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pf-misctexture01-beer-000_5.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=c1552a7bdc2ea7b6e17d8d0d893c15be");
+background-repeat: repeat;
+background-size: 100%;
+margin-left: 10px;
+margin-right: 5px;
+}
+
+p {
+color: purple ;
+font-style: italic;
+font-size: x-large;
+}
+
+
+h1 {
+color: palevioletred ;
+font-style: oblique;
+text-align: center;
+font-size: 63px;
+}
+
+h2 {
+font-style: oblique;
+color:palevioletred;
+/*--margin-left: 20px;--*/
+font-size: 2.5em;
+}
+
+h3 {
+font-style: oblique;
+color:  peru;
+font-size:2em ;
+/*--margin-left: 18px;--*/
+}
